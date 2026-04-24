@@ -7,13 +7,13 @@ chapter: false
 
 # Báo cáo thực tập
 ### Thông tin sinh viên:
-&emsp; **Họ và tên:** Nguyễn Văn A
+&emsp; **Họ và tên:** Lê Quang Thịnh
 
-&emsp; **Số điện thoại:** 0989888999
+&emsp; **Số điện thoại:**Q901205521
 
-&emsp; **Email:** Anguyenvan@gmail.com
+&emsp; **Email:** thinhle26052004@gmail.com
 
-&emsp; **Trường:** Đại học Sư phạm Kỹ thuật TP.HCM
+&emsp; **Trường:** Đại học công nghệ thành phố Hồ Chí Minh
 
 &emsp; **Ngành:** Công nghệ thông tin
 
@@ -23,9 +23,9 @@ chapter: false
 
 &emsp; **Vị trí thực tập:** FCJ Cloud Intern
 
-&emsp; **Thời gian thực tập:** Từ ngày 12/08/2025 đến ngày 12/11/2025
+&emsp; **Thời gian thực tập:** Từ ngày 17/04/2026 đến 13/07/2026
 
-![Ảnh đại diện của bạn](/images/avatar.png)
+![Ảnh đại diện của bạn](/images/avatar.jpg)
 
 
 
